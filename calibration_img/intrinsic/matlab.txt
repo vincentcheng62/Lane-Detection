@@ -1,0 +1,59 @@
+Calibrate all 11 images
+
+Calibration results after optimization (with uncertainties):
+
+Focal Length:          fc = [ 721.25570   722.75499 ] +/- [ 6.46597   6.46390 ]
+Principal point:       cc = [ 339.49586   254.22771 ] +/- [ 5.98456   6.49197 ]
+Skew:             alpha_c = [ 0.00000 ] +/- [ 0.00000  ]   => angle of pixel axes = 90.00000 +/- 0.00000 degrees
+Distortion:            kc = [ -0.26357   0.16402   -0.00268   0.00051  0.00000 ] +/- [ 0.02010   0.10521   0.00115   0.00114  0.00000 ]
+Pixel error:          err = [ 0.10821   0.21539 ]
+
+Extrinsic parameters:
+
+Translation vector: Tc_ext = [ -75.233439 	 94.071602 	 1006.960742 ]
+Rotation vector:   omc_ext = [ 1.597514 	 1.611036 	 -0.865418 ]
+Rotation matrix:    Rc_ext = [ 0.003914 	 0.999742 	 0.022370
+                               0.533322 	 0.016836 	 -0.845745
+                               -0.845903 	 0.015241 	 -0.533119 ]
+Pixel error:           err = [ 0.07385 	 0.45917 ]
+
+
+Calibrate without 5,7,8,10,11
+
+Focal Length:          fc = [ 711.22282   713.18927 ] +/- [ 8.89370   8.94823 ]
+Principal point:       cc = [ 338.81767   249.03222 ] +/- [ 4.96237   5.15346 ]
+Skew:             alpha_c = [ 0.00017 ] +/- [ 0.00092  ]   => angle of pixel axes = 89.99046 +/- 0.05296 degrees
+Distortion:            kc = [ -0.28839   0.50162   -0.00198   0.00043  -1.09463 ] +/- [ 0.02945   0.34081   0.00083   0.00078  1.18014 ]
+Pixel error:          err = [ 0.08721   0.10878 ]
+
+
+Translation vector: Tc_ext = [ -74.314314 	 101.369019 	 993.229108 ]
+Rotation vector:   omc_ext = [ 1.591013 	 1.605200 	 -0.872635 ]
+Rotation matrix:    Rc_ext = [ 0.003277 	 0.999757 	 0.021786
+                               0.525349 	 0.016817 	 -0.850721
+                               -0.850880 	 0.014233 	 -0.525166 ]
+Pixel error:           err = [ 0.07790 	 0.46589 ]
+
+/////////////////////////////////////////////////////////////////////////////////////
+
+Camera Intrinsics
+                    IntrinsicMatrix: [3x3 double]
+                        FocalLength: [721.4126 722.8521]
+                     PrincipalPoint: [340.5633 253.4298]
+                               Skew: 0
+
+   Lens Distortion
+                   RadialDistortion: [-0.2555 0.0081 0.5949]
+               TangentialDistortion: [-0.0032 4.6678e-04]
+
+Calibrate without 5,7,8,10,11
+
+   Camera Intrinsics
+                    IntrinsicMatrix: [3x3 double]
+                        FocalLength: [712.9565 714.8811]
+                     PrincipalPoint: [338.9180 249.9874]
+                               Skew: -0.0283
+
+   Lens Distortion
+                   RadialDistortion: [-0.2846 0.4235 -0.8613]
+               TangentialDistortion: [-0.0025 2.6112e-04]
