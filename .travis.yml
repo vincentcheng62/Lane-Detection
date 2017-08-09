@@ -1,2 +1,2 @@
 language: csharp
-solution: /lane-detection-master/build/LaneDetect.sln
+solution: ./lane-detection-master/build/LaneDetect.sln
