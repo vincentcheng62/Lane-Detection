@@ -1,0 +1,46 @@
+﻿  main.cpp
+f:\lane_marking_detection\lane-detection-master_20161217\lane-detection-master\build\CalibrationRecord.h(28): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+f:\lane_marking_detection\lane-detection-master_20161217\lane-detection-master\build\CalibrationRecord.h(88): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+f:\lane_marking_detection\lane-detection-master_20161217\lane-detection-master\build\CalibrationRecord.h(116): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+f:\lane_marking_detection\lane-detection-master_20161217\lane-detection-master\build\LaneTrackingSystem.h(54): warning C4244: '引數': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+f:\lane_marking_detection\lane-detection-master_20161217\lane-detection-master\build\LaneTrackingSystem.h(55): warning C4244: '引數': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+f:\lane_marking_detection\lane-detection-master_20161217\lane-detection-master\build\LaneTrackingSystem.h(56): warning C4244: '引數': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+f:\lane_marking_detection\lane-detection-master_20161217\lane-detection-master\build\LaneTrackingSystem.h(57): warning C4244: '引數': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+f:\lane_marking_detection\lane-detection-master_20161217\lane-detection-master\build\LaneTrackingSystem.h(59): warning C4244: '引數': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+f:\lane_marking_detection\lane-detection-master_20161217\lane-detection-master\build\LaneTrackingSystem.h(65): warning C4244: '引數': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+f:\lane_marking_detection\lane-detection-master_20161217\lane-detection-master\build\LaneTrackingSystem.h(65): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+f:\lane_marking_detection\lane-detection-master_20161217\lane-detection-master\build\LaneTrackingSystem.h(66): warning C4244: '引數': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+f:\lane_marking_detection\lane-detection-master_20161217\lane-detection-master\build\LaneTrackingSystem.h(67): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+f:\lane_marking_detection\lane-detection-master_20161217\lane-detection-master\build\LaneTrackingSystem.h(138): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+f:\lane_marking_detection\lane-detection-master_20161217\lane-detection-master\build\LaneTrackingSystem.h(139): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+f:\lane_marking_detection\lane-detection-master_20161217\lane-detection-master\build\LaneTrackingSystem.h(148): warning C4244: '+=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+f:\lane_marking_detection\lane-detection-master_20161217\lane-detection-master\build\LaneTrackingSystem.h(149): warning C4244: '+=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+f:\lane_marking_detection\lane-detection-master_20161217\lane-detection-master\build\LaneTrackingSystem.h(200): warning C4244: '引數': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+f:\lane_marking_detection\lane-detection-master_20161217\lane-detection-master\build\LaneTrackingSystem.h(212): warning C4244: '引數': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+f:\lane_marking_detection\lane-detection-master_20161217\lane-detection-master\build\LaneTrackingSystem.h(213): warning C4244: '引數': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+f:\lane_marking_detection\lane-detection-master_20161217\lane-detection-master\build\LaneTrackingSystem.h(247): warning C4244: '引數': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+f:\lane_marking_detection\lane-detection-master_20161217\lane-detection-master\build\LaneTrackingSystem.h(248): warning C4244: '引數': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+f:\lane_marking_detection\lane-detection-master_20161217\lane-detection-master\build\LaneTrackingSystem.h(264): warning C4244: '引數': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+f:\lane_marking_detection\lane-detection-master_20161217\lane-detection-master\build\LaneTrackingSystem.h(284): warning C4018: '<': signed/unsigned 不相符
+f:\lane_marking_detection\lane-detection-master_20161217\lane-detection-master\build\LaneTrackingSystem.h(364): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+f:\lane_marking_detection\lane-detection-master_20161217\lane-detection-master\build\LaneTrackingSystem.h(367): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+f:\lane_marking_detection\lane-detection-master_20161217\lane-detection-master\build\LaneTrackingSystem.h(410): warning C4244: '引數': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+f:\lane_marking_detection\lane-detection-master_20161217\lane-detection-master\build\LaneTrackingSystem.h(411): warning C4244: '引數': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+f:\lane_marking_detection\lane-detection-master_20161217\lane-detection-master\build\LaneTrackingSystem.h(412): warning C4244: '引數': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+f:\lane_marking_detection\lane-detection-master_20161217\lane-detection-master\build\LaneTrackingSystem.h(413): warning C4244: '引數': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+f:\lane_marking_detection\lane-detection-master_20161217\lane-detection-master\build\LaneTrackingSystem.h(420): warning C4244: '引數': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+f:\lane_marking_detection\lane-detection-master_20161217\lane-detection-master\build\LaneTrackingSystem.h(421): warning C4244: '引數': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+f:\lane_marking_detection\lane-detection-master_20161217\lane-detection-master\build\LaneTrackingSystem.h(422): warning C4244: '引數': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+f:\lane_marking_detection\lane-detection-master_20161217\lane-detection-master\build\LaneTrackingSystem.h(423): warning C4244: '引數': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+f:\lane_marking_detection\lane-detection-master_20161217\lane-detection-master\build\LaneTrackingSystem.h(424): warning C4244: '引數': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+f:\lane_marking_detection\lane-detection-master_20161217\lane-detection-master\build\LaneTrackingSystem.h(425): warning C4244: '引數': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+f:\lane_marking_detection\lane-detection-master_20161217\lane-detection-master\build\LaneTrackingSystem.h(369): warning C4477: 'printf' : 格式字串 '%d' 需要 'int' 類型的引數，但 variadic 引數 1 的類型為 'double'
+f:\lane_marking_detection\lane-detection-master_20161217\lane-detection-master\build\LaneTrackingSystem.h(369): warning C4477: 'printf' : 格式字串 '%d' 需要 'int' 類型的引數，但 variadic 引數 2 的類型為 'double'
+f:\lane_marking_detection\lane-detection-master_20161217\lane-detection-master\build\LaneTrackingSystem.h(369): warning C4477: 'printf' : 格式字串 '%d' 需要 'int' 類型的引數，但 variadic 引數 3 的類型為 'double'
+f:\lane_marking_detection\lane-detection-master_20161217\lane-detection-master\build\LaneTrackingSystem.h(369): warning C4477: 'printf' : 格式字串 '%d' 需要 'int' 類型的引數，但 variadic 引數 4 的類型為 'double'
+main.cpp(73): warning C4018: '<': signed/unsigned 不相符
+main.cpp(70): warning C4101: 'etime': 未參考的區域變數
+main.cpp(70): warning C4101: 'etime2': 未參考的區域變數
+main.cpp(70): warning C4101: 'stime2': 未參考的區域變數
+  contours.vcxproj -> D:\lane-detection-master\lane-detection-master\build\Debug\contours.exe
+  contours.vcxproj -> D:/lane-detection-master/lane-detection-master/build/Debug/contours.pdb (Full PDB)
